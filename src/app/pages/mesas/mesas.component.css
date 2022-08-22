@@ -1,0 +1,66 @@
+.height-mesas {
+  height: 30rem;
+  overflow-y: scroll;
+}
+
+.height-menu {
+  height: 13rem;
+  overflow-y: scroll;
+}
+
+.height-pedidos {
+  height: 13rem;
+  overflow-y: scroll;
+}
+
+.list-group-pointer {
+  cursor: pointer;
+}
+
+.flotante-contenido {
+  background-color: #ffffff;
+  width: 55rem;
+  padding: 10px 9px;
+  margin: 6% auto auto 24%;
+  position: relative;
+  border-radius: 12px;
+}
+
+.flotante {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow-y: scroll;
+}
+
+.posicion-x {
+  font-size: 12px;
+  text-align: right;
+}
+
+.btn-personality {
+  padding: 2px 5px;
+}
+
+.row-pedidos {
+  margin-right: 25px;
+  margin-left: 15px;
+}
+
+.row-cabecera {
+  background-color: #5878ca;
+  color: #fff;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.txt-personality {
+  font-size: 14px;
+  border: 2px solid #5878ca;
+  padding: 0px 0px;
+  height: 75%;
+}
+

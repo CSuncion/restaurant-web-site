@@ -1,0 +1,16 @@
+export interface Producto {
+  IdFam020: number,
+  Codemp: string,
+  Codpro: string,
+  Nompro: string,
+  Precos: number,
+  Marcom: number,
+  Prevta: number,
+  Prevts: number,
+  Estpro: string,
+  Codusu: string,
+  Fecreg: Date,
+  Unimed: string,
+  Salstk: number,
+  Codmon: string,
+}

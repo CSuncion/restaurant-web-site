@@ -73,3 +73,10 @@ Login register and recover password Page
     position: absolute;
     height: 100%;
 }
+
+a p{
+  text-align: center;
+  color: #000000;
+  font-weight: bold;
+  margin-top: 5px;
+}

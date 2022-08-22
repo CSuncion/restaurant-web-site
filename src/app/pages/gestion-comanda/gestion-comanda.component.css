@@ -1,0 +1,10 @@
+.row-cabecera {
+  background-color: #5878ca;
+  color: #fff;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.col-width {
+  width: auto;
+}

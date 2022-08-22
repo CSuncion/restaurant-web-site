@@ -1,0 +1,35 @@
+.flotante-contenido-apertura {
+  background-color: #ffffff;
+  width: 38rem;
+  padding: 10px 20px;
+  margin: 6% auto auto 34%;
+  position: relative;
+  border-radius: 5px;
+}
+
+.flotante {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow-y: scroll;
+}
+
+.posicion-x {
+  font-size: 12px;
+  text-align: right;
+}
+
+.form-date__input[type=”date”]::-webkit-calendar-picker-indicator {
+  display: none;
+  }
+
+
+  .txt-personality-apertura {
+    font-size: 14px;
+    border: 2px solid #5878ca;
+    padding: 3px 0px;
+    height: 70%;
+  }

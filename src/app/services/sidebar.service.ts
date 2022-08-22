@@ -15,20 +15,12 @@ export class SidebarService {
           url: '/'
         },
         {
-          title: 'ProgressBar',
-          url: 'progress'
+          title: 'Mesas',
+          url: 'mesas'
         },
         {
-          title: 'Gráficas',
-          url: 'graph1'
-        },
-        {
-          title: 'rxjs',
-          url: 'rxjs'
-        },
-        {
-          title: 'Promesas',
-          url: 'promises'
+          title: 'Gestión de Comandas',
+          url:'gestion-comanda'
         }
 
       ]
